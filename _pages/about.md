@@ -1,13 +1,12 @@
 ---
 permalink: /
-title:
+title: About Me
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# 🧑‍💻 About Me 
 I am a PhD Student in Electrical and Computer Engineering working on artificial intelligence for healthcare. 
 My research explores multimodal representation learning, combining structured data, clinical text, and medical imaging to create unified patient embeddings. 
 I am particularly interested in how these techniques can improve patient similarity search and predictive modeling, ultimately supporting better clinical decision-making in hospital care.
