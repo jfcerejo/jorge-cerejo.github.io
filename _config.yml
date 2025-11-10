@@ -21,10 +21,10 @@ repository: "jfcerejo/jorge-cerejo.github.io"
 author:
   avatar           : "profile.png"
   name             : "Jorge Filipe Cerejo"
-  pronouns         : "he/him"
-  bio              : "PhD Student in Electrical and Computer Enginnering at Instituto Superior Técnico (Universidade de Lisboa) and Data Scientist at Hospital da Luz Learning Health. My research focuses on health informatics, data analysis, and machine learning in healthcare."
+  pronouns         : 
+  bio              : "PhD Student in Electrical and Computer Enginnering at Instituto Superior Técnico (Universidade de Lisboa) and Data Scientist at Hospital da Luz Learning Health"
   location         : "Lisbon, Portugal"
-  employer         : "Instituto Superior Técnico / Hospital da Luz Learning Health"
+  employer         : "Instituto Superior Técnico"
   uri              : 
   email            : "jorge.filipe.cerejo@tecnico.ulisboa.pt"
 
