@@ -1,41 +1,42 @@
 ---
 permalink: /
-title: Home
+title: Jorge Filipe Cerejo
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-# Jorge Filipe Cerejo
 PhD Student in Electrical and Computer Engineering
+
 Instituto Superior Técnico, Universidade de Lisboa  
 
-Data Scientist at [Hospital da Luz Learning Health](https://www.hospitaldaluz.pt/pt/para-profissionais/learning-health).  
-My research focuses on the application of **data science**, **machine learning**, and **health informatics** to improve clinical decision-making and patient outcomes.
 
-### 🎓 Academic Background
+## 🧑‍💻 About Me 
+I am a PhD candidate working on artificial intelligence for healthcare. 
+My research explores multimodal representation learning, combining structured data, clinical text, and medical imaging to create unified patient embeddings. 
+I am particularly interested in how these techniques can improve patient similarity search and predictive modeling, ultimately supporting better clinical decision-making in hospital care.
+
+
+## 🎓 Academic Background
 - **PhD in Electrical and Computer Engineering**, Instituto Superior Técnico, Universidade de Lisboa *(Ongoing)*  
 - **MSc in Biomedical Engineering**, Instituto Superior Técnico *(2020–2022)*
     - Erasmus Programme, Katholieke Universiteit Leuven *(2020–2021)*  
 - **BSc in Biomedical Engineering**, Instituto Superior Técnico *(2017–2020)*  
 
-### 💼 Professional Experience
+## 💼 Professional Experience
 - **Data Scientist**, Hospital da Luz Learning Health *(2023–Present)*  
 - **Invited Assistant**, Católica Medical School *(2024–2025)*  
 - **Junior Researcher**, INESC-ID *(2022–2023)*  
 
-### 🧠 Research Interests
+## 🧠 Research Interests
+- Clinical Data Analysis
 - Health Informatics  
 - Machine Learning in Healthcare  
-- Clinical Data Analysis
 - Multimodal Clinical Data
-- Predictive Modelling for Patient Outcomes
+- Predictive Modeling for Patient Outcomes
 
-### 📄 Selected Publications
+## 📄 Selected Publications
 - *Predicting Imminent Health Outcomes from Common Lab Results*, **medRxiv (2023)**.  
 - *Multimorbidity in Heart Failure Patients*, **HEALTHINF (2024)**.  
 - *Monitoring Non-Technical Skills in Advanced Life Support Simulation Training*, **SESAM (2025)**.  
-
-📧 **jorge.filipe.cerejo@tecnico.ulisboa.pt**  
-🔗 [LinkedIn](https://www.linkedin.com/in/jorge-cerejo) | [GitHub](https://github.com/<jfcerejo>)
